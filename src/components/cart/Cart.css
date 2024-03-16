@@ -1,0 +1,36 @@
+.Cart-container {
+    display:flex;
+    justify-content: center;
+}
+
+.Cart-items{
+    width:20px;
+    margin-bottom: 10px;
+    padding: 8px;
+    overflow: auto;
+}
+.Cart-button{
+    width:30px;
+    height: 40px;
+    padding:5px 4px;
+    margin-right:5px;
+    border-color: beige;
+    border-radius: 1px solid;
+   
+}
+.Product-align{
+    margin-top: 30px;
+    margin-right: 310px;
+}
+.Img-align{
+    float:left;
+    margin-left:35% ;
+    margin-right: 30px;
+}
+.Img-align img{
+    max-width: 100px;
+    height: 100px;
+}
+.footer{
+    background-color: palegoldenrod;
+}
